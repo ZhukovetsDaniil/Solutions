@@ -1,5 +1,11 @@
 import java.util.Scanner;
 
+/*
+ * Дано натуральное число T, которое представляет длительность прошедшего
+ * времени в секундах. Вывести данное значение длительности в часах,
+ * минутах и секундах в следующей форме
+ * HHч MMмин SSс
+ */
 public class Task5 {
     public static void main(String[] args) {
         //input T (time in seconds)
